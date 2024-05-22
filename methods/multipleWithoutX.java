@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class multipleWithoutX {
     public static void main(String[] args) {
         double firstNumber, second;
-        String operator;
         Scanner scan = new Scanner(System.in);
         System.out.println("Type first number");
         firstNumber = scan.nextInt();

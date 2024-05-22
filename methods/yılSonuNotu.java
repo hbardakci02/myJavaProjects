@@ -1,7 +1,7 @@
 public class yılSonuNotu {
 
     public static void main(String[] args) {
-        System.out.println(sonNot(0, 0, 25, 25, 50, 75, 42, 80));
+        System.out.println(sonNot(0, 22, 25, 50, 70, 85, 40, 70));
     }
 
     public static int sonNot(int quiz1, int quiz2, int quiz3, int quiz4, int ödev, int katılım, int vize, int final1) {

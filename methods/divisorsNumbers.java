@@ -12,5 +12,6 @@ public class divisorsNumbers {
                 System.out.println(i + " ");
             }
         }
+        tara.close();
     }
 }
