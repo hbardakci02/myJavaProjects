@@ -1,3 +1,5 @@
+package methods;
+
 import java.util.Scanner;
 
 //A problem about array.Null indexs will be delete....

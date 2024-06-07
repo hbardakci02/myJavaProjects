@@ -1,3 +1,4 @@
+package methods;
 
 public class maxMinNumber {
 

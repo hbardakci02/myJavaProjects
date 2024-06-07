@@ -1,3 +1,5 @@
+package methods;
+
 public class armstrongNumber {
     public static void main(String[] args) {
         double a, b, c = 0;

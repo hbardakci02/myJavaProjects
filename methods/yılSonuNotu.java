@@ -1,7 +1,9 @@
+package methods;
+
 public class yılSonuNotu {
 
     public static void main(String[] args) {
-        System.out.println(sonNot(0, 22, 25, 50, 70, 85, 40, 70));
+        System.out.println(sonNot(0, 0, 30, 30, 84, 78, 46, 70));
     }
 
     public static int sonNot(int quiz1, int quiz2, int quiz3, int quiz4, int ödev, int katılım, int vize, int final1) {

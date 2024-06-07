@@ -1,3 +1,5 @@
+package methods;
+
 public class primeNumber {
     public static void main(String[] args) {
         int n = 100;
