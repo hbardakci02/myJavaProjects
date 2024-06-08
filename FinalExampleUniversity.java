@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FinalExample {
+public class FinalExampleUniversity {
     public static void main(String[] args) {
         // Ürünleri oluştur
         Product foodProduct = new Food(1, 10, "Apple", "Fresh apple", 0, 50, 0, 10);
