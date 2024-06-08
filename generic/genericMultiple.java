@@ -1,3 +1,5 @@
+package generic;
+
 public class genericMultiple {
     public static <T extends Number> double multiple(T x, T y) {
 
