@@ -114,7 +114,7 @@ class Cart {
             Product product = pointer.getKey();
             int count = pointer.getValue();
             double subTotal = product.discount(0.5) * count;
-            System.out.println(count + " piece " + product + " Price: " + subTotal);
+            System.out.println("Product: " + product.name + ", Count: " + count + ", Subtotal: " + subTotal);
             total += subTotal;
         }
         System.out.println("Total Price: " + total);

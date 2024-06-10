@@ -8,7 +8,7 @@ public class CarSellerExample {
         Car car2 = new Car(2, "Honda Civic", 22000, "Petrol", 4);
         Motorcycle moto1 = new Motorcycle(3, "Harley Davidson", 15000, 1.2, false);
         Motorcycle moto2 = new Motorcycle(4, "Ducati Monster", 18000, 1.0, false);
-
+        
         // Create a customer
         Customer customer = new Customer("John Doe", "john@example.com", "1234567890", "123 Main St");
 
