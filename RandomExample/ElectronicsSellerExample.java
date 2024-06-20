@@ -1,3 +1,5 @@
+package RandomExample;
+
 import java.util.*;
 
 public class ElectronicsSellerExample {
