@@ -3,7 +3,6 @@ package RandomExample;
 import java.util.Random;
 import java.util.Scanner;
 
-import javax.xml.transform.Source;
 
 public class HangmanGame {
     public static void main(String[] args) {
@@ -61,6 +60,7 @@ public class HangmanGame {
                 }
             }
             if (isFinished) {
+                System.out.println(wordToGuess);
                 System.out.println("Congratulations !!");
                 break;
             }
@@ -70,5 +70,6 @@ public class HangmanGame {
             System.out.println("Game Over: ");
             System.out.println("Word: " + wordToGuess);
         }
+        scan.close();
     }
 }
